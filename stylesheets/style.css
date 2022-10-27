@@ -1,0 +1,22 @@
+@import "content.css";
+@import "reset.css"
+@font-face {
+font-family: "Bold";
+scr:url('FiraCode-Bold.ttf')
+}
+@font-face {
+font-family: "Light";
+scr:url('FiraCode-Light.ttf')
+}
+@font-face {
+font-family: "Medium";
+scr:url('FiraCode-Medium.ttf')
+}
+@font-face {
+font-family: "Regular";
+scr:url('FiraCode-Regular.ttf')
+}
+@font-face {
+font-family: "SemiBold";
+scr:url('FiraCode-SemiBold.ttf')
+}
